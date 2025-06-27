@@ -31,6 +31,19 @@ Access the API at:\
 
 * * * * *
 
+📖 API Documentation
+--------------------
+
+The project includes auto-generated OpenAPI docs using **springdoc-openapi**.
+
+Once the app is running, you can access:
+
+-   **Swagger UI** → <http://localhost:8080/swagger-ui.html>
+
+-   **OpenAPI JSON** → <http://localhost:8080/v3/api-docs>
+
+This allows you to explore and test all endpoints directly from the browser.
+
 📝 Example JSON for POST
 ---------------------
 
